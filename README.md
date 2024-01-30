@@ -1,1 +1,1 @@
-"# UVG Miner°a de Datos" 
+"# UVG Miner√≠a de Datos" 
